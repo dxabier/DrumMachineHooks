@@ -1,0 +1,27 @@
+body{
+    background-color: gray;
+}
+
+.drum-pad{
+    border: 5px solid black;
+    height: 200px;
+    background-color: white;
+    padding-top: 70px;
+    font-size: 25px;
+    align-self: center;
+}
+
+.title{
+    color: white;    
+    margin-top: 3%;
+}
+
+.pantalla{
+    color: black;    
+    background-color: wheat;
+}
+
+.drum-pad:hover{
+    background-color: yellow;
+    cursor: pointer;
+  }
